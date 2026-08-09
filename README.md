@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosefin Kurniawati</h1>
-<h3 align="center">A passionate full stack developer from Sidoarjo</h3>
+<h3 align="center">A passionate Web Developer from Sidoarjo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosefin05&label=Profile%20views&color=0e75b6&style=flat" alt="yosefin05" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework**
 
-- 👯 I’m looking to collaborate on [Website Resep Nusantara](https://github.com/yosefin05/ResepNusantara.git)
+- 👯 I’m looking to collaborate on [Website Orangbaik.id] (https://github.com/yosefin05/orangbaik)
 
 - 📫 How to reach me **yosefinkurniawati05@gmail.com**
 
