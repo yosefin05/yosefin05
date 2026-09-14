@@ -1,25 +1,96 @@
-<h1 align="center">Hi 👋, I'm Yosefin Kurniawati</h1>
-<h3 align="center">A passionate Web Developer from Sidoarjo</h3>
+<h1 align="center">Hi there! 👋🏻 I'm Yosi 🌷</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosefin05&label=Profile%20views&color=0e75b6&style=flat" alt="yosefin05" /> </p>
-
-- 🔭 I’m currently studying on **SMK Telkom Sidoarjo**
-
-- 🌱 I’m currently learning **Framework**
-
-- 👯 I’m looking to collaborate on [Website Orangbaik.id] (https://github.com/yosefin05/orangbaik)
-
-- 📫 How to reach me **yosefinkurniawati05@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yosefinkurniawati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosefinkurniawati" height="30" width="40" /></a>
-<a href="https://instagram.com/yosefin_kt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosefin_kt" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Developer in Progress 💻</b><br>
+  <i>building things, learning things, and occasionally fighting bugs at 2 AM ☕</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yosefin05&label=profile%20views&color=9b8cff&style=flat-square" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefin05&show_icons=true&locale=en&layout=compact" alt="yosefin05" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosefin05&show_icons=true&locale=en" alt="yosefin05" /></p>
+### 🌱 A little about me
+
+🎓 I'm currently a **12th-grade SIJA student at SMK Telkom Sidoarjo**.
+
+💻 I'm interested in **web development**, especially backend development, databases, and building useful digital products.
+
+🌷 Currently learning more about **Laravel, PHP, JavaScript, databases, and software engineering**.
+
+🧠 I enjoy solving problems with logic — even though sometimes the problem is just one missing semicolon. 😭
+
+🚀 One of the projects I'm currently working on:
+
+- 🤍 **[OrangBaik.id](https://github.com/yosefin05/orangbaik)** — a crowdfunding & donation platform developed during my internship.
+
+📍 Based in **Sidoarjo, Indonesia** 🇮🇩
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-icon.svg" width="40" height="40" alt="Postman"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ What I like building
+
+```text
+🌐 Web Applications
+🗄️ Backend & Databases
+💳 Payment Integrations
+📱 Mobile Applications
+🤖 Small AI Experiments
+🏠 IoT & Smart Systems
